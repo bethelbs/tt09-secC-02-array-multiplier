@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Accepts two 4-bit inputs and outputs their product
 
 ## How to test
 
-Explain how to use your project
+Follow test/readme.MD steps
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
